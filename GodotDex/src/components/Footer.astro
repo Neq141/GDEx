@@ -1,0 +1,17 @@
+---
+const today = new Date();
+import { SITE_TITLE, SITE_DESCRIPTION } from "../consts";
+---
+
+<footer>
+	&copy; {today.getFullYear()} GodotDex. All rights reserved.
+	<p>{(SITE_TITLE.slice(0,-1))}'s theme has taken heavy inspiration by the <a href="https://github.com/AnubisNekhet/AnuPpuccin">Anuppuccin</a>  theme for <a href="https://obsidian.md/">obsidian</a></p>
+</footer>
+
+<style>
+	footer {
+		padding: 25px;
+		text-align: center;
+
+	}
+</style>

@@ -1,0 +1,15 @@
+{
+    "editor.wordWrap": "on",
+    "editor.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "explicit",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorBlinking": "phase",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.fontFamily": "Iosevka NF",
+    "markdown.preview.fontFamily": "Iosevka NF",
+    "debug.console.fontFamily": "Iosevka NF",
+    "editor.fontLigatures": true
+}
